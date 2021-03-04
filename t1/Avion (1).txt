@@ -1,0 +1,12 @@
+12,boeing,44,55,duminica
+33,airbus,44,33,joi
+12,boeing,22,21,vineri
+12,boeing,44,55,duminica
+33,airbus,1,33,joi
+12,boeing,2,21,vineri
+12,tarom,444,55,duminica
+33,airbus,256,33,joi
+12,boeing,23,21,vineri
+12,boeing,44,55,duminica
+33,airbus,445,33,joi
+12,wizzair,22,21,vineri

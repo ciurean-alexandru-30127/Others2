@@ -1,0 +1,9 @@
+89,boeing,22,34,sambata
+71,airbus,56,31,joi
+6,tarom,76,13,miercuri
+3,tarom,72,14,joi
+2,airbus,56,12,joi
+84,airbus,77,11,luni
+7,tarom,100,45,marti
+1,boeing,1089,33,joi
+99,airbus,454,76,miercuri
